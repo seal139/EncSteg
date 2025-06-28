@@ -9,7 +9,7 @@ Informatics Engineering, Mercubuana University
 
 --------------------------------------------------------------------------------------------
 
-Encryption using AES 256-bit key with CBC mode, PKCS7 padding, and 16 byte random IV data
-AES key is enhanced with PBKDF - HMAC SHA1 with 32 byte random salt data and 65536 iteration
-
+Encryption using AES 256-bit key with CBC mode, PKCS7 padding, and 16 byte random IV data<br/>
+AES key is enhanced with PBKDF - HMAC SHA1 with 32 byte random salt data and 65536 iteration<br/>
+<br/>
 Steganography is based on Least Significant Bit (LSB). so we will only alter blue channel of the image.
