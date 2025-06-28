@@ -1,4 +1,4 @@
-package pgp;
+package encsteg;
 
 import java.awt.image.BufferedImage;
 import java.io.BufferedReader;
