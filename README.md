@@ -1,9 +1,9 @@
 # EncSteg
 AES Encrypted Steganography - This is a part of our Major Assignment 2 Project of Steganography and Cryptography. 
-
-Author:
-41521110038 - Daniel Jayasutra
-41521110012 - Septian Pramana R
+<br/><br/>
+Author: <br/>
+41521110038 - Daniel Jayasutra <br/>
+41521110012 - Septian Pramana R<br/>
 Informatics Engineering, Mercubuana University
 
 
